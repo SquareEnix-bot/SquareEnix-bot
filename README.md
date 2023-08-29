@@ -1,7 +1,9 @@
 ### Hi there 👋
-## I'm a novice Front-End Developer
 
 <!--
+
+## I'm a novice Front-End Developer
+
 **SquareEnix-bot/SquareEnix-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
